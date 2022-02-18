@@ -1,7 +1,9 @@
 # MechaCar Statistical Analysis
 
-## Project Overview:
+## Liner Reqression to Predict MPG
 
-## Results:
+## Summary Statistics on Suspension Coils
 
-### Liner Reqression to Predict MPG
+## T-Tests on Suspension Coils
+
+## Study Design: MechCar vs Competition
