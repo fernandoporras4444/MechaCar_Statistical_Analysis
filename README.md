@@ -44,4 +44,4 @@
    - `Lot 3` individual T-Test has low p-value of `0.04168` and the 95% confidence intervals is between `1492.431 to 1499.849` of population mean 1500psi and the sample means of `1496.14` is within the confidence intervals. Due to the 95% confidence intervals lower than 1500psi indicates an issue with standard of quality manufacturing at Lot 3.
 
 ## Study Design: MechCar vs Competition
-I would gather several past years of data pertaining additional variables like fuel efficiency, car cost, and safety rating in which I would use the Null Hypothesis and Alternative Hypothesis to determine the key factors for its genre. Multiple liner regression would be used to help determine the key factors with the highest correlation to predictability with car cost.
+I would gather several past years of data other car manufactures for variables like fuel efficiency, car cost, and safety rating in which I would use the Null Hypothesis and Alternative Hypothesis to determine the key factors for its genre. Multiple liner regression would be used to help determine the key factors with the highest correlation to predictability with car cost against car competition.
